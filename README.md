@@ -4,7 +4,6 @@
 
 
 
-'''
-docker pull kalilinux/kali-linux-docker
-docker run -ti kalilinux/kali-linux-docker /bin/bash
-'''
+`docker pull kalilinux/kali-linux-docker`
+`docker run -ti kalilinux/kali-linux-docker /bin/bash`
+
