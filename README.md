@@ -1,2 +1,10 @@
 # Kali-Docker
-How to run a Kali terminal window inside of a docker container
+  Running a Kali terminal window inside of a docker container
+
+
+
+
+'''
+docker pull kalilinux/kali-linux-docker
+docker run -ti kalilinux/kali-linux-docker /bin/bash
+'''
